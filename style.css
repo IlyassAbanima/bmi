@@ -1,0 +1,45 @@
+
+
+div{
+  margin: auto;
+  background-color: rgb(68, 67, 67);
+  width: 300px;
+  height: 200px;
+  border-radius: 10px;
+  text-align: center;
+}
+h1{
+  text-align: center;
+  color: green;
+  padding-top: 8px;
+}
+input{
+  display: block;
+  width: 180px;
+  height: 25px;
+  margin: auto;
+  margin-bottom: 10px;
+  border: none;
+  border-radius: 3px;
+  text-align: center;
+  font-size:14px;
+}
+button{
+  width: 180px;
+  margin-right: 0px; 
+  border-radius: 3px;
+  border: none;
+  font-size: medium;
+  font-weight: bold;
+  height: 25px;
+  background-color: green;
+  color: white;
+}
+p{
+  text-align: center;
+  color: white;
+}
+
+.p2{
+  padding-top:  50px;
+}
